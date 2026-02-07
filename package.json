@@ -1,0 +1,27 @@
+{
+  "name": "cowsay-dfrostexd",
+  "version": "1.0.0",
+  "description": "Welcome to Week 2! This assignment teaches you to use Copilot Agent for project setup while you learn npm basics through the fun cowsay package.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-DFROSTEXD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-DFROSTEXD/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-DFROSTEXD#readme",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
